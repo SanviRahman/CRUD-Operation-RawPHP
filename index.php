@@ -89,7 +89,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <body>
 
-    <h1>CRUD Operation with PHP (Session)</h1>
+    <h1>CRUD Operation with PHP</h1>
 
     <!-- Create Form -->
     <form method="post">
